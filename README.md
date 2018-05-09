@@ -4,9 +4,9 @@ UDEMY - Curso de Desenvolvimento Android https://www.udemy.com/curso-completo-�
 
 Este Curso é composto pelos seguintes capítulos:
 
-Seção: 01 - Vamos começar?
-Seção: 02 - Instalação e Configuração no Windows
-Seção: 03 - Instalação e Configuração no MAC
+  Seção: 01 - Vamos começar?
+  Seção: 02 - Instalação e Configuração no Windows
+  Seção: 03 - Instalação e Configuração no MAC
 Seção: 04 - Emuladores
 Seção: 05 - Aprenda a Linguagem de Programação Java do Zero
 Seção: 06 - Aprenda a Linguagem de Programação Java do Zero - Orientação a Objetos
