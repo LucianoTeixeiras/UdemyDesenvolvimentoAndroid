@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Secao_01-Introducao/Secao_01-Introducao.iml" filepath="$PROJECT_DIR$/Secao_01-Introducao/Secao_01-Introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao_02-InstalacaoeWindows/Secao_02-InstalacaoeWindows.iml" filepath="$PROJECT_DIR$/Secao_02-InstalacaoeWindows/Secao_02-InstalacaoeWindows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao_03-InstalacaoeMAC/Secao_03-InstalacaoeMAC.iml" filepath="$PROJECT_DIR$/Secao_03-InstalacaoeMAC/Secao_03-InstalacaoeMAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao_04-Emuladores/Secao_04-Emuladores.iml" filepath="$PROJECT_DIR$/Secao_04-Emuladores/Secao_04-Emuladores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao_05-AprendaJava/Secao_05-AprendaJava.iml" filepath="$PROJECT_DIR$/Secao_05-AprendaJava/Secao_05-AprendaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao_06-AprendaJava-OO/Secao_06-AprendaJava-OO.iml" filepath="$PROJECT_DIR$/Secao_06-AprendaJava-OO/Secao_06-AprendaJava-OO.iml" />
       <module fileurl="file://$PROJECT_DIR$/UdemyDesenvolvimentoAndroid.iml" filepath="$PROJECT_DIR$/UdemyDesenvolvimentoAndroid.iml" />
     </modules>
   </component>
